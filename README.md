@@ -6,6 +6,7 @@ Java solutions for LeetCode problems with an emphasis on clean code and problem-
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/aayushehe/leetcode-solutions/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aayushehe/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/aayushehe/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/aayushehe/leetcode-solutions/tree/master/0704-binary-search) |
@@ -34,4 +35,8 @@ Java solutions for LeetCode problems with an emphasis on clean code and problem-
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/aayushehe/leetcode-solutions/tree/master/1929-concatenation-of-array) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/aayushehe/leetcode-solutions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
