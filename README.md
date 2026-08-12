@@ -7,6 +7,7 @@ Java solutions for LeetCode problems with an emphasis on clean code and problem-
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aayushehe/leetcode-solutions/tree/master/0001-two-sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/aayushehe/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aayushehe/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/aayushehe/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/aayushehe/leetcode-solutions/tree/master/0704-binary-search) |
@@ -14,6 +15,7 @@ Java solutions for LeetCode problems with an emphasis on clean code and problem-
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/aayushehe/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aayushehe/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/aayushehe/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/aayushehe/leetcode-solutions/tree/master/0069-sqrtx) |
