@@ -11,6 +11,7 @@ Java solutions for LeetCode problems with an emphasis on clean code and problem-
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aayushehe/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/aayushehe/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/aayushehe/leetcode-solutions/tree/master/0162-find-peak-element) |
+| [0217-contains-duplicate](https://github.com/aayushehe/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0704-binary-search](https://github.com/aayushehe/leetcode-solutions/tree/master/0704-binary-search) |
 | [1929-concatenation-of-array](https://github.com/aayushehe/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 ## Binary Search
@@ -43,4 +44,9 @@ Java solutions for LeetCode problems with an emphasis on clean code and problem-
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aayushehe/leetcode-solutions/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/aayushehe/leetcode-solutions/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/aayushehe/leetcode-solutions/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
