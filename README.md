@@ -10,6 +10,7 @@ Java solutions for LeetCode problems with an emphasis on clean code and problem-
 | [0033-search-in-rotated-sorted-array](https://github.com/aayushehe/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aayushehe/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/aayushehe/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0136-single-number](https://github.com/aayushehe/leetcode-solutions/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/aayushehe/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/aayushehe/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0704-binary-search](https://github.com/aayushehe/leetcode-solutions/tree/master/0704-binary-search) |
@@ -49,4 +50,8 @@ Java solutions for LeetCode problems with an emphasis on clean code and problem-
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/aayushehe/leetcode-solutions/tree/master/0217-contains-duplicate) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/aayushehe/leetcode-solutions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
