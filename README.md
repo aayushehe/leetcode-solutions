@@ -13,6 +13,7 @@ Java solutions for LeetCode problems with an emphasis on clean code and problem-
 | [0136-single-number](https://github.com/aayushehe/leetcode-solutions/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/aayushehe/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/aayushehe/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/aayushehe/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/aayushehe/leetcode-solutions/tree/master/0704-binary-search) |
 | [1929-concatenation-of-array](https://github.com/aayushehe/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 ## Binary Search
@@ -24,6 +25,7 @@ Java solutions for LeetCode problems with an emphasis on clean code and problem-
 | [0069-sqrtx](https://github.com/aayushehe/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/aayushehe/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0278-first-bad-version](https://github.com/aayushehe/leetcode-solutions/tree/master/0278-first-bad-version) |
+| [0349-intersection-of-two-arrays](https://github.com/aayushehe/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/aayushehe/leetcode-solutions/tree/master/0704-binary-search) |
 ## Math
 |  |
@@ -46,12 +48,18 @@ Java solutions for LeetCode problems with an emphasis on clean code and problem-
 | ------- |
 | [0001-two-sum](https://github.com/aayushehe/leetcode-solutions/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/aayushehe/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/aayushehe/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/aayushehe/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/aayushehe/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/aayushehe/leetcode-solutions/tree/master/0136-single-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/aayushehe/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
