@@ -48,11 +48,13 @@ Java solutions for LeetCode problems with an emphasis on clean code and problem-
 | ------- |
 | [0001-two-sum](https://github.com/aayushehe/leetcode-solutions/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/aayushehe/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/aayushehe/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/aayushehe/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/aayushehe/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/aayushehe/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/aayushehe/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
 |  |
@@ -62,4 +64,8 @@ Java solutions for LeetCode problems with an emphasis on clean code and problem-
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/aayushehe/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/aayushehe/leetcode-solutions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
