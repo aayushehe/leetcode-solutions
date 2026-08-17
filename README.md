@@ -87,4 +87,8 @@ Java solutions for LeetCode problems with an emphasis on clean code and problem-
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/aayushehe/leetcode-solutions/tree/master/0202-happy-number) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/aayushehe/leetcode-solutions/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
