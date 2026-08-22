@@ -77,6 +77,7 @@ Java solutions for LeetCode problems with an emphasis on clean code and problem-
 | [0125-valid-palindrome](https://github.com/aayushehe/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/aayushehe/leetcode-solutions/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/aayushehe/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/aayushehe/leetcode-solutions/tree/master/0392-is-subsequence) |
 ## String
 |  |
 | ------- |
@@ -84,6 +85,7 @@ Java solutions for LeetCode problems with an emphasis on clean code and problem-
 | [0205-isomorphic-strings](https://github.com/aayushehe/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/aayushehe/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/aayushehe/leetcode-solutions/tree/master/0290-word-pattern) |
+| [0392-is-subsequence](https://github.com/aayushehe/leetcode-solutions/tree/master/0392-is-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
@@ -100,4 +102,8 @@ Java solutions for LeetCode problems with an emphasis on clean code and problem-
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/aayushehe/leetcode-solutions/tree/master/0011-container-with-most-water) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/aayushehe/leetcode-solutions/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
