@@ -8,6 +8,7 @@ Java solutions for LeetCode problems with an emphasis on clean code and problem-
 | ------- |
 | [0001-two-sum](https://github.com/aayushehe/leetcode-solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/aayushehe/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/aayushehe/leetcode-solutions/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/aayushehe/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aayushehe/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/aayushehe/leetcode-solutions/tree/master/0035-search-insert-position) |
@@ -60,6 +61,7 @@ Java solutions for LeetCode problems with an emphasis on clean code and problem-
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/aayushehe/leetcode-solutions/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/aayushehe/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/aayushehe/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/aayushehe/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -71,6 +73,7 @@ Java solutions for LeetCode problems with an emphasis on clean code and problem-
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/aayushehe/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/aayushehe/leetcode-solutions/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/aayushehe/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/aayushehe/leetcode-solutions/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/aayushehe/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
