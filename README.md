@@ -14,6 +14,7 @@ Java solutions for LeetCode problems with an emphasis on clean code and problem-
 | [0035-search-insert-position](https://github.com/aayushehe/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/aayushehe/leetcode-solutions/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/aayushehe/leetcode-solutions/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/aayushehe/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/aayushehe/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/aayushehe/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/aayushehe/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -27,6 +28,7 @@ Java solutions for LeetCode problems with an emphasis on clean code and problem-
 | [0035-search-insert-position](https://github.com/aayushehe/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/aayushehe/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/aayushehe/leetcode-solutions/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/aayushehe/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/aayushehe/leetcode-solutions/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/aayushehe/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/aayushehe/leetcode-solutions/tree/master/0704-binary-search) |
@@ -75,6 +77,7 @@ Java solutions for LeetCode problems with an emphasis on clean code and problem-
 | [0011-container-with-most-water](https://github.com/aayushehe/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/aayushehe/leetcode-solutions/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/aayushehe/leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/aayushehe/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/aayushehe/leetcode-solutions/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/aayushehe/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/aayushehe/leetcode-solutions/tree/master/0392-is-subsequence) |
