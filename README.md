@@ -104,6 +104,7 @@ Java solutions for LeetCode problems with an emphasis on clean code and problem-
 | [0181-employees-earning-more-than-their-managers](https://github.com/aayushehe/leetcode-solutions/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0183-customers-who-never-order](https://github.com/aayushehe/leetcode-solutions/tree/master/0183-customers-who-never-order) |
 | [0577-employee-bonus](https://github.com/aayushehe/leetcode-solutions/tree/master/0577-employee-bonus) |
+| [0584-find-customer-referee](https://github.com/aayushehe/leetcode-solutions/tree/master/0584-find-customer-referee) |
 ## Greedy
 |  |
 | ------- |
