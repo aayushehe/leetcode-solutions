@@ -106,6 +106,7 @@ Java solutions for LeetCode problems with an emphasis on clean code and problem-
 | [0577-employee-bonus](https://github.com/aayushehe/leetcode-solutions/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/aayushehe/leetcode-solutions/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/aayushehe/leetcode-solutions/tree/master/0595-big-countries) |
+| [1148-article-views-i](https://github.com/aayushehe/leetcode-solutions/tree/master/1148-article-views-i) |
 ## Greedy
 |  |
 | ------- |
