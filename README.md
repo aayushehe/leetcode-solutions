@@ -12,6 +12,7 @@ Java solutions for LeetCode problems with an emphasis on clean code and problem-
 | [0033-search-in-rotated-sorted-array](https://github.com/aayushehe/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aayushehe/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/aayushehe/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/aayushehe/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/aayushehe/leetcode-solutions/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/aayushehe/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aayushehe/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -115,5 +116,6 @@ Java solutions for LeetCode problems with an emphasis on clean code and problem-
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/aayushehe/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/aayushehe/leetcode-solutions/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
