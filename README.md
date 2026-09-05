@@ -63,6 +63,7 @@ Java solutions for LeetCode problems with an emphasis on clean code and problem-
 | [0290-word-pattern](https://github.com/aayushehe/leetcode-solutions/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/aayushehe/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/aayushehe/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/aayushehe/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -94,12 +95,14 @@ Java solutions for LeetCode problems with an emphasis on clean code and problem-
 | [0290-word-pattern](https://github.com/aayushehe/leetcode-solutions/tree/master/0290-word-pattern) |
 | [0392-is-subsequence](https://github.com/aayushehe/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/aayushehe/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/aayushehe/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aayushehe/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/aayushehe/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/aayushehe/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/aayushehe/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
