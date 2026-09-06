@@ -19,6 +19,7 @@ Java solutions for LeetCode problems with an emphasis on clean code and problem-
 | [0217-contains-duplicate](https://github.com/aayushehe/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/aayushehe/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/aayushehe/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0643-maximum-average-subarray-i](https://github.com/aayushehe/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/aayushehe/leetcode-solutions/tree/master/0704-binary-search) |
 | [1929-concatenation-of-array](https://github.com/aayushehe/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 ## Binary Search
@@ -103,6 +104,7 @@ Java solutions for LeetCode problems with an emphasis on clean code and problem-
 | [0219-contains-duplicate-ii](https://github.com/aayushehe/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/aayushehe/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/aayushehe/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0643-maximum-average-subarray-i](https://github.com/aayushehe/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
