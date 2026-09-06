@@ -97,6 +97,7 @@ Java solutions for LeetCode problems with an emphasis on clean code and problem-
 | [0392-is-subsequence](https://github.com/aayushehe/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/aayushehe/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/aayushehe/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/aayushehe/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Sliding Window
 |  |
 | ------- |
@@ -105,6 +106,7 @@ Java solutions for LeetCode problems with an emphasis on clean code and problem-
 | [0424-longest-repeating-character-replacement](https://github.com/aayushehe/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/aayushehe/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/aayushehe/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/aayushehe/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
