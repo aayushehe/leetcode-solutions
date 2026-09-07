@@ -124,6 +124,7 @@ Java solutions for LeetCode problems with an emphasis on clean code and problem-
 | [0595-big-countries](https://github.com/aayushehe/leetcode-solutions/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/aayushehe/leetcode-solutions/tree/master/0596-classes-with-at-least-5-students) |
 | [1148-article-views-i](https://github.com/aayushehe/leetcode-solutions/tree/master/1148-article-views-i) |
+| [1174-immediate-food-delivery-ii](https://github.com/aayushehe/leetcode-solutions/tree/master/1174-immediate-food-delivery-ii) |
 | [1527-patients-with-a-condition](https://github.com/aayushehe/leetcode-solutions/tree/master/1527-patients-with-a-condition) |
 ## Greedy
 |  |
