@@ -129,6 +129,7 @@ Java solutions for LeetCode problems with an emphasis on clean code and problem-
 | [1174-immediate-food-delivery-ii](https://github.com/aayushehe/leetcode-solutions/tree/master/1174-immediate-food-delivery-ii) |
 | [1527-patients-with-a-condition](https://github.com/aayushehe/leetcode-solutions/tree/master/1527-patients-with-a-condition) |
 | [1683-invalid-tweets](https://github.com/aayushehe/leetcode-solutions/tree/master/1683-invalid-tweets) |
+| [1693-daily-leads-and-partners](https://github.com/aayushehe/leetcode-solutions/tree/master/1693-daily-leads-and-partners) |
 | [1757-recyclable-and-low-fat-products](https://github.com/aayushehe/leetcode-solutions/tree/master/1757-recyclable-and-low-fat-products) |
 ## Greedy
 |  |
