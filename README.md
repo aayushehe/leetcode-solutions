@@ -23,6 +23,7 @@ Java solutions for LeetCode problems with an emphasis on clean code and problem-
 | [0349-intersection-of-two-arrays](https://github.com/aayushehe/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/aayushehe/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/aayushehe/leetcode-solutions/tree/master/0704-binary-search) |
+| [0918-maximum-sum-circular-subarray](https://github.com/aayushehe/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1929-concatenation-of-array](https://github.com/aayushehe/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 ## Binary Search
 |  |
@@ -143,8 +144,18 @@ Java solutions for LeetCode problems with an emphasis on clean code and problem-
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aayushehe/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/aayushehe/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/aayushehe/leetcode-solutions/tree/master/0392-is-subsequence) |
+| [0918-maximum-sum-circular-subarray](https://github.com/aayushehe/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/aayushehe/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0918-maximum-sum-circular-subarray](https://github.com/aayushehe/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/aayushehe/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/aayushehe/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
